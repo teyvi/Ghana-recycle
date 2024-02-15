@@ -8,6 +8,7 @@ function App() {
         <h1>Opalhhhhhhhh</h1>
        
         <p>
+          Team Opal
           Edit <code>src/App.js</code> and save to reload. hello Joana
         </p>
         <a

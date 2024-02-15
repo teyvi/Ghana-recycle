@@ -8,7 +8,7 @@ function App() {
         <h1>Opalhhhhhhhh</h1>
        
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload. hello Joana
         </p>
         <a
           className="App-link"
